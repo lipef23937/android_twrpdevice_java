@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_java.mk
+    $(LOCAL_DIR)/twrp_java.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_java-user \
